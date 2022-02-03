@@ -12,7 +12,7 @@
 - 👨‍🎓 I'm currently studying for my **IGCSE** courses.
 
 ## Contact Me:
-![Discord](https://img.shields.io/badge/Dsicord-Lambels8829-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Yahoo!](https://img.shields.io/badge/Yahoo!-patrick.arvatu@yahoo.com-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Lambels8829-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Yahoo!](https://img.shields.io/badge/Yahoo!-patrick.arvatu@yahoo.com-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
 
 ## Tech:
 
