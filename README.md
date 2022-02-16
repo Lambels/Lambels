@@ -3,11 +3,11 @@
 
 ## Currently:
 
-- 🔭 I’m currently working on [My Personal Website](https://github.com/Lambels/patrickarvatu.com)
+- 🔭 I’m currently working on [**My Personal Website**](https://github.com/Lambels/patrickarvatu.com)
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 📚 I'm currently reading [Rich Dad Poor Dad](https://www.richdad.com/)
+- 📚 I'm currently reading [**Learning GO**](https://www.oreilly.com/library/view/learning-go/9781492077206/)
 
 - 👨‍🎓 I'm currently studying for my **IGCSE** courses.
 
