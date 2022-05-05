@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**My Personal Website**](https://github.com/Lambels/patrickarvatu.com)
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning **NeoVim** 🙀🙀🙀
 
 - 📚 I'm currently reading [**Learning GO**](https://www.oreilly.com/library/view/learning-go/9781492077206/)
 
