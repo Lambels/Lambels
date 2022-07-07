@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Algorithms And Data Structures**
 
-- 📚 I'm currently reading **Carlo Rovelli: Seven brief lessons on physics*
+- 📚 I'm currently reading **Carlo Rovelli: Seven brief lessons on physics**
 - 👨‍🎓 I'm currently studying for my **Chemistry** exam.
 
 ## Contact Me:
