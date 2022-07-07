@@ -3,13 +3,12 @@
 
 ## Currently:
 
-- 🔭 I’m currently working on [**My Personal Website**](https://github.com/Lambels/patrickarvatu.com)
+- 🔭 I’m currently working on [**Leetcode**](https://leetcode.com/)
 
 - 🌱 I’m currently learning **Algorithms And Data Structures**
 
-- 📚 I'm currently reading [**Learning GO**](https://www.oreilly.com/library/view/learning-go/9781492077206/)
-
-- 👨‍🎓 I'm currently studying for my **IGCSE** courses.
+- 📚 I'm currently reading **Carlo Rovelli: Seven brief lessons on physics*
+- 👨‍🎓 I'm currently studying for my **Chemistry** exam.
 
 ## Contact Me:
 ![Discord](https://img.shields.io/badge/Discord-Lambels8829-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Yahoo!](https://img.shields.io/badge/Yahoo!-patrick.arvatu@yahoo.com-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
