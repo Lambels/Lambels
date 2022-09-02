@@ -4,9 +4,9 @@
 ## Currently:
 
 - 🔭 I’m currently working on [**Leetcode**](https://leetcode.com/Lambels/)
-- 🌱 I’m currently learning **Algorithms And Data Structures**
+- 🌱 I’m currently learning **Concurrency Paterns**
 - 📚 I'm currently reading **Carlo Rovelli: Seven brief lessons on physics**
-- 👨‍🎓 I'm currently studying for my **Chemistry** exam
+- 👨‍🎓 I'm currently studying for my **IGCSE** exams
 
 ## Contact Me:
 ![Discord](https://img.shields.io/badge/Discord-Lambels8829-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Yahoo!](https://img.shields.io/badge/Yahoo!-patrick.arvatu@yahoo.com-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
