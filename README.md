@@ -3,7 +3,7 @@
 
 ## Currently:
 
-- 🔭 I’m currently working on [**Leetcode**](https://leetcode.com/Lambels/)
+- 🔭 I’m currently working on [**Sinoname**](https://github.com/Lambels/sinoname)
 - 🌱 I’m currently learning **Concurrency Paterns**
 - 📚 I'm currently reading **Carlo Rovelli: Seven brief lessons on physics**
 - 👨‍🎓 I'm currently studying for my **IGCSE** exams
