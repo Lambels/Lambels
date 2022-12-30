@@ -3,10 +3,11 @@
 
 ## Currently:
 
-- 🔭 I’m currently working on [**Sinoname**](https://github.com/Lambels/sinoname)
-- 🌱 I’m currently learning **Concurrency Paterns**
-- 📚 I'm currently reading **[Mans Search For Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)**
-- 👨‍🎓 I'm currently studying for my **IGCSE** exams
+- 🔭 I’m currently working on [**Sinoname**](https://github.com/Lambels/sinoname).
+- 🌱 I’m currently learning **Concurrency Paterns**.
+- 📚 I'm currently reading **[Mans Search For Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)**.
+- 👨‍🎓 I'm currently studying for my **IGCSE** exams.
+- #️ I'm currently 16.
 
 ## Contact Me:
 ![Discord](https://img.shields.io/badge/Discord-Lambels8829-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Yahoo!](https://img.shields.io/badge/Yahoo!-patrick.arvatu@yahoo.com-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
