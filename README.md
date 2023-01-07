@@ -3,7 +3,7 @@
 
 ## Currently:
 
-- 🔭 I’m currently working on [**CSB Open API**](https://github.com/](https://github.com/CSB-Open-API).
+- 🔭 I’m currently working on [**CSB Open API**](https://github.com/CSB-Open-API).
 - 🌱 I’m currently learning **Concurrency Paterns**.
 - 📚 I'm currently reading **[Mans Search For Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)**.
 - 👨‍🎓 I'm currently studying for my **IGCSE** exams.
