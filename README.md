@@ -4,7 +4,7 @@
 ## Currently:
 
 - 🔭 I’m currently working on [**go-dialogue**](https://github.com/Lambels/go-dialogue).
-- 🌱 I’m currently learning **Neovim 😱**.
+- 🌱 I’m currently learning **Rust**.
 - 📚 I'm currently reading **NOTHING**.
 - 👨‍🎓 I'm currently studying for my **IGCSE** exams.
 - #️ I'm currently 16.
