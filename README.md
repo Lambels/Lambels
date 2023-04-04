@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Arvatu</h1>
-<h3 align="center">Passionate, open-minded and outgoing backend web developer.</h3>
+<h3 align="center">Passionate, open-minded and outgoing learner.</h3>
 
 ## Currently:
 
