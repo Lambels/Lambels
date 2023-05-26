@@ -4,9 +4,9 @@
 ## Currently:
 
 - 🔭 I’m currently working on [**newspaper**](https://github.com/Lambels/newspaper).
-- 🌱 I’m currently learning **Rust**.
+- 🌱 I’m currently learning **Lexers**.
 - 📚 I'm currently reading **NOTHING**.
-- 👨‍🎓 I'm currently studying for my **IGCSE** exams.
+- 👨‍🎓 I'm currently studying for my **AS Level** exams.
 - #️ I'm currently 16.
 
 ## Contact Me:
