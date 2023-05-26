@@ -3,7 +3,7 @@
 
 ## Currently:
 
-- 🔭 I’m currently working on [**go-dialogue**](https://github.com/Lambels/go-dialogue).
+- 🔭 I’m currently working on [**newspaper**](https://github.com/Lambels/newspaper).
 - 🌱 I’m currently learning **Rust**.
 - 📚 I'm currently reading **NOTHING**.
 - 👨‍🎓 I'm currently studying for my **IGCSE** exams.
