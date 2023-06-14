@@ -3,7 +3,7 @@
 
 ---
 **Im currently taking a break from open sourced programming for the next month during which I will:**
-- Learn about interpreters and compilers: https://craftinginterpreters.com/
+- Learn about interpreters and compilers in preparation for my next project [newspaper](https://github.com/Lambels/newspaper): https://craftinginterpreters.com/
 - Learn the ins and outs of git: https://git-scm.com/book/en/v2
 - Learn Algebra II, Trigonometry and (try to) Calculus
 ---
