@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick Arvatu</h1>
 <h3 align="center">Passionate, open-minded and outgoing learner.</h3>
 
----
-**Im currently taking a break from open sourced programming for the next month during which I will:**
-- Learn about interpreters and compilers in preparation for my next project [newspaper](https://github.com/Lambels/newspaper): https://craftinginterpreters.com/
-- Learn the ins and outs of git: https://git-scm.com/book/en/v2
-- Learn Algebra II, Trigonometry and (try to) Calculus
----
-
-## Currently:
-
-- 🔭 I’m currently working on [**newspaper**](https://github.com/Lambels/newspaper).
-- 🌱 I’m currently learning **Lexers**.
-- 📚 I'm currently reading **NOTHING**.
-- 👨‍🎓 I'm currently studying for my **AS Level** exams.
-- #️ I'm currently 16.
-
 ## Contact Me:
 ![Discord](https://img.shields.io/badge/Discord-Lambels8829-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Yahoo!](https://img.shields.io/badge/Yahoo!-patrick.arvatu@yahoo.com-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
 
